@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at [Z1 Flexible Solution](https://z1flexiblesolution.com/)
 
-- 🌱 I’m currently learning **Nextjs, Graphql, Strapi**
+- 🌱 I’m currently learning **Nextjs, Graphql, WP**
 
 - 🤝 I’m looking for help with **Freelance Project**
 
