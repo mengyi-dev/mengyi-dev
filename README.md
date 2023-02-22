@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mengyer34&label=Profile%20views&color=0e75b6&style=flat" alt="mengyer34" /> </p>
 
-- 🔭 I’m currently working at [Z1 Flexible Solution](https://z1flexiblesolution.com/)
+- 🔭 I’m currently working at [ABA Bank Head Office](https://www.ababank.com/)
 
 - 🌱 I’m currently learning **Nextjs, Graphql, WP**
 
 - 🤝 I’m looking for help with **Freelance Project**
 
-- 💬 Ask me about **Reactjs, Nextjs, VueJs, Graphql...**
+- 💬 Ask me about **Reactjs, Nextjs, VueJs, Nuxtjs, Graphql...**
 
 - 📫 How to reach me **mengyi.yoeng34@gmail.com**
 
