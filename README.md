@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mengyi.yoeng34@gmail.com**
 
-- 📄 Know about my experiences [https://mengyi-cv.netlify.app](https://mengyi-cv.netlify.app)
+- 📄 Know about my experiences **** N \ A ****
 
 - ⚡ Fun fact **I think I like coding and wanna before a content creator as well**
 
