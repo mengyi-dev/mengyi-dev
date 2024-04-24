@@ -5,19 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mengyer34&label=Profile%20views&color=0e75b6&style=flat" alt="mengyer34" /> </p>
 
-- 🔭 I’m currently working at [ABA Bank Head Office](https://www.ababank.com/)
-
-- 🌱 I’m currently learning **Nextjs, Graphql, WP**
-
 - 🤝 I’m looking for help with **Freelance Project**
 
-- 💬 Ask me about **Reactjs, Nextjs, VueJs, Nuxtjs, Graphql...**
+- 💬 Ask me about **VueJs, Nuxtjs**
 
 - 📫 How to reach me **mengyi.yoeng34@gmail.com**
 
 - 📄 Know about my experiences **** N \ A ****
 
-- ⚡ Fun fact **I think I like coding and wanna before a content creator as well**
+- ⚡ Fun fact **I think I like coding and wanna be a content creator as well**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
