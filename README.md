@@ -1,5 +1,3 @@
-![image](https://user-images.githubusercontent.com/90229183/212344692-8f1556c6-47b8-418c-89df-237955e460c1.png)
-
 <h1 align="center">Hi 👋, I'm Mengyi</h1>
 <h3 align="center">A passionate Frontend Developer from Cambodia</h3>
 
