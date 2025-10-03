@@ -35,8 +35,8 @@
 
 ### 📊 GitHub at a Glance
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mengyer34&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mengyer34&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mengyi-dev&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mengyi-dev&theme=tokyonight" height="160" />
 </p>
 
 ---
